@@ -1,0 +1,25 @@
+# Python cache folders
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# # Image cache / output
+# *.png
+# *.jpg
+# *.jpeg
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+temp/
